@@ -1,0 +1,61 @@
+.item-card {
+  height: 150px;
+  width: calc(50% - 20px);
+  display: flex;
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+  box-sizing: border-box; /* pour centrer les boites */
+  margin-right: 10px; /* pour centrer les boites */
+  margin-left: 10px; /* pour centrer les boites */
+  margin-bottom: 10px;
+}
+
+.card-label {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 15px;
+  margin-right: 50px;
+}
+
+.card-content {
+  flex: 1; /* pour centrer les boites */
+}
+
+.card-description {
+  flex: 1;
+  height: 50px;
+  margin-top: 10px;
+  padding: 0;
+  line-height: 1.5em;
+  color: grey;
+  font-size: 13px;
+  overflow: auto;
+}
+
+.price-popular-container {
+  display: flex;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.card-price {
+  color: grey;
+  margin-right: 0px;
+  margin-top: 10px;
+}
+
+.card-popular {
+  color: orange;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.meal-image-container > img {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-right: 2px;
+  position: sticky;
+}

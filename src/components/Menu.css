@@ -1,0 +1,18 @@
+.menu-background {
+  background-color: white;
+  display: flex;
+}
+
+.menu {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 20px 0;
+
+  flex-direction: row;
+  display: flex;
+}
+
+.Zizou {
+  flex: 1;
+  background-color: #00bbff;
+}

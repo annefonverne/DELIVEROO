@@ -1,0 +1,141 @@
+.Home {
+  display: block;
+  margin-left: 500px;
+  margin-top: 5px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  background: #e3d2ba;
+  color: #7b8fd6;
+  text-decoration: none;
+  box-shadow: inset 0px 0px 10px 3px white; /* ombre du boutons */
+}
+
+.Link {
+  text-decoration: none;
+}
+.Home1 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 5px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  box-shadow: 5px 10px #888888;
+}
+.Home2 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 5px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  box-shadow: 10px 5px yellowgreen;
+}
+.Home3 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 5px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  box-shadow: inset 0 0 10px 4px #5c1af5;
+}
+
+.Home4 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 5px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  text-decoration: none;
+  -webkit-box-shadow: inset 0 0 10px 4px #677309;
+  box-shadow: inset 0 0 10px 4px #677309;
+  background: #778607;
+}
+.Home5 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 5px;
+  width: 150px;
+  color: white;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  background-color: #010528;
+  box-shadow: inset 0px 0px 10px 3px white;
+}
+.Home6 {
+  display: flex;
+  margin-left: 500px;
+  margin-top: 5px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  text-align: center;
+  border-radius: 20px;
+  align-items: center;
+  align-self: stretch;
+  white-space: nowrap;
+  padding-left: 10px;
+  padding-right: 10px;
+  flex-shrink: 0;
+  width: auto;
+  min-width: 140px;
+}
+.Home7 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 10px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  box-shadow: 0px 0px 10px 3px #888888;
+}
+
+.Home8 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 10px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  box-shadow: 0px 0px 10px 3px #888888;
+}
+
+.Home9 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 10px;
+  width: 150px;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 20px;
+  vertical-align: middle;
+  box-shadow: 0px 0px 10px 3px #888888;
+}

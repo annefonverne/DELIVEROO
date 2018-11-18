@@ -1,0 +1,43 @@
+.cart {
+  width: 390px;
+  height: auto;
+  margin-top: 50px;
+  background-color: rgb(187, 214, 255);
+  border-left-style: double;
+  border-color: white;
+  border-right-style: double;
+  position: absolute;
+}
+.cart-container {
+  width: 390x;
+  height: 200px;
+  background-color: rgb(50, 136, 247);
+  position: sticky;
+}
+
+.plusbutton {
+  color: white;
+  background-color: #bf0095;
+}
+
+.minusbutton {
+  color: white;
+  background-color: blueviolet;
+}
+
+.valider {
+  display: flex;
+  margin-bottom: 5px;
+  margin-top: 30px;
+}
+.Monpanier {
+  background-color: #f4b2ff;
+  width: 340px;
+  height: 200px;
+}
+.libelle {
+  margin-left: 10px;
+}
+.produits > ul li {
+  color: rgb(50, 136, 247);
+}
